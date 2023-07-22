@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speech2Text", "Speech2Text.csproj", "{ADF0B402-DBF4-4AA8-B682-727D487B9360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF0B402-DBF4-4AA8-B682-727D487B9360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF0B402-DBF4-4AA8-B682-727D487B9360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF0B402-DBF4-4AA8-B682-727D487B9360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF0B402-DBF4-4AA8-B682-727D487B9360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F66FF5-3B92-437A-9EA0-CC8964E65BF9}
+	EndGlobalSection
+EndGlobal
